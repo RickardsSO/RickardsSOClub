@@ -1,3 +1,2 @@
-# RickardsSOClub
-
-xd
+# RSOI
+Rickards SO Invite website
